@@ -12,7 +12,7 @@ Here is the arXiv link: https://arxiv.org/abs/1904.10032
 
 Here is the web-link: http://im.itu.edu.pk/orientation-aware-firearms-detection/
 
-[DATASET: Google Drive](https://drive.google.com/drive/folders/10uIow6fRVo8X-Ns14GEpZRRRcVxuWvoA?usp=sharing)
+[DATASET is available upon request [Google Form]](https://forms.gle/t3dS5g5JQdfPoSvn9)
 
 Trained model: Coming soon...
 
