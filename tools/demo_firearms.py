@@ -8,7 +8,7 @@
 # --------------------------------------------------------
 
 
-#Moderated by CVML group
+# Modified by CVML group @ITU- Punjab
 """
 Demo script showing detections in sample images.
 
