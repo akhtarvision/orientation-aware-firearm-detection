@@ -8,7 +8,7 @@ Automatic detection of firearms is important for enhancing security and safety o
 
 # Instructions
 
-This code is moderated using Faster RCNN. We made the two phases in Faster RCNN by adopting cascade approach. Please see the setup details of Faster RCNN [here](https://github.com/rbgirshick/py-faster-rcnn). This will assist in runnig our model.
+This code is modified using Faster RCNN. We made the two phases in Faster RCNN by adopting cascade approach. Please see the setup details of Faster RCNN [here](https://github.com/rbgirshick/py-faster-rcnn). This will assist in runnig our model.
 
 We provide necessaery files to run the test script only using our model. Download our model from this [link](https://drive.google.com/file/d/1ShZoCTfoBga9j0y-GPINOFgdf1x8Ti9t/view?usp=sharing). Put it into
 
