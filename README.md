@@ -21,7 +21,7 @@ Trained model: Coming soon...
 
 BIBTEX:
 
-@article{DBLP:journals/corr/abs-1904-10032,
+```@article{DBLP:journals/corr/abs-1904-10032,
 
   author    = {Javed Iqbal and
                Muhammad Akhtar Munir and
@@ -39,6 +39,6 @@ BIBTEX:
   
   url       = {http://arxiv.org/abs/1904.10032}
 }
-
+```
 
 
