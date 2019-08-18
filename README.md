@@ -12,10 +12,10 @@ This code is moderated using Faster RCNN. We made the two phases in Faster RCNN 
 
 We provide necessaery files to run test script using our model. Download our model from this [link](https://drive.google.com/file/d/1ShZoCTfoBga9j0y-GPINOFgdf1x8Ti9t/view?usp=sharing). Put it into .../data/faster_rcnn_models directory.
 
-Replace the cfg, test in fast rcnn folder. Also replace the prototxt file for test with the provided one.
+Replace the cfg, test in fast rcnn folder. Also replace the prototxt file for test with the provided one. Also put images in .../data/demo folder.
 
 
-After installation and setup, to run the test file:
+After installation and setup, to run the test file. Place it into .../tools directory:
 ```python demo_firearms.py```
 
 
