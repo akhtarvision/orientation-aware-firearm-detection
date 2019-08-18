@@ -5,7 +5,7 @@
 # Written by Ross Girshick
 # --------------------------------------------------------
 
-# Modified by CVML
+# Modified by CVML group @ITU- Punjab
 
 """Test a Fast R-CNN network on an imdb (image database)."""
 
