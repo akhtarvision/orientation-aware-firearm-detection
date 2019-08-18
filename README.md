@@ -22,21 +22,15 @@ Trained model: Coming soon...
 BIBTEX:
 
 ```@article{DBLP:journals/corr/abs-1904-10032,
-
   author    = {Javed Iqbal and
                Muhammad Akhtar Munir and
                Arif Mahmood and
                Afsheen Rafaqat Ali and
                Mohsen Ali},
-               
   title     = {Orientation Aware Object Detection with Application to Firearms},
-  
   journal   = {CoRR},
-  
   volume    = {abs/1904.10032},
-  
   year      = {2019},
-  
   url       = {http://arxiv.org/abs/1904.10032}
 }
 ```
