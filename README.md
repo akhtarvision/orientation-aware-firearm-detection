@@ -47,7 +47,8 @@ Trained model: [link](https://drive.google.com/file/d/1ShZoCTfoBga9j0y-GPINOFgdf
 
 BIBTEX:
 
-```@article{iqbal2021leveraging,
+```
+@article{iqbal2021leveraging,
   title={Leveraging orientation for weakly supervised object detection with application to firearm localization},
   author={Iqbal, Javed and Munir, Muhammad Akhtar and Mahmood, Arif and Ali, Afsheen Rafaqat and Ali, Mohsen},
   journal={Neurocomputing},
