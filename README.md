@@ -47,17 +47,14 @@ Trained model: [link](https://drive.google.com/file/d/1ShZoCTfoBga9j0y-GPINOFgdf
 
 BIBTEX:
 
-```@article{DBLP:journals/corr/abs-1904-10032,
-  author    = {Javed Iqbal and
-               Muhammad Akhtar Munir and
-               Arif Mahmood and
-               Afsheen Rafaqat Ali and
-               Mohsen Ali},
-  title     = {Orientation Aware Object Detection with Application to Firearms},
-  journal   = {CoRR},
-  volume    = {abs/1904.10032},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1904.10032}
+```@article{iqbal2021leveraging,
+  title={Leveraging orientation for weakly supervised object detection with application to firearm localization},
+  author={Iqbal, Javed and Munir, Muhammad Akhtar and Mahmood, Arif and Ali, Afsheen Rafaqat and Ali, Mohsen},
+  journal={Neurocomputing},
+  volume={440},
+  pages={310--320},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
